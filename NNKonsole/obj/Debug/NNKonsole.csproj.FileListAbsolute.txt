@@ -1,0 +1,24 @@
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.exe.config
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.exe
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.pdb
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\CKI.Interfaces.dll
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NeuronalesNetzBib.dll
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NeuronalesNetzBib.pdb
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\CKI.Interfaces.pdb
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csproj.CoreCompileInputs.cache
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csproj.CopyComplete
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.exe
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.pdb
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.exe.config
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.exe
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NNKonsole.pdb
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\CKI.Interfaces.dll
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NeuronalesNetzBib.dll
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\NeuronalesNetzBib.pdb
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\bin\Debug\CKI.Interfaces.pdb
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csprojAssemblyReference.cache
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csproj.CoreCompileInputs.cache
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csproj.CopyComplete
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.exe
+L:\REPO_STUD\Bachelor\SS_21\michael wierlemann\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.pdb
+C:\Users\micaw\Desktop\C# & KI Wahlmodul\SVN_Repositories\ProjektOrdner\ProjektB_Neuronales_Netz_Michael_Wierlemann_787314\NNKonsole\obj\Debug\NNKonsole.csproj.AssemblyReference.cache
